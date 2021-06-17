@@ -33,11 +33,6 @@ caught.
   <LI>Name the class after what it is. If you can't think of what it is that is 
   a clue you have not thought through the design well enough. 
   <LI>Compound names of over three words are a clue your design may be confusing 
-    
-    
-   # Credits
-    
-    - https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html#classnames
   various entities in your system. Revisit your design. Try a CRC card session 
   to see if your objects have more responsibilities than they should. 
   <LI>Avoid the temptation of bringing the name of the class a class derives 
@@ -1741,3 +1736,7 @@ function. Besides, every machine has lots of RAM now so we don't worry about
 buffer space any more :-) 
 <P>
 </body>
+  
+  # References 
+  
+  - https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html#classnames
